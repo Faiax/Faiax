@@ -1,4 +1,4 @@
-I'm Faiaz.
+Hi, I'm Faiaz.
 
 I like Video Games, Books & Tech.
 
