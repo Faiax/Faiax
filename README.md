@@ -4,7 +4,7 @@ I like Video Games, Books & Tech.
 
 I try to learn something everyday.
 
-Pronouns:He/Him
+Pronouns: He/Him
 
 Fun fact: I am Interested in Digital Art
 <!--
