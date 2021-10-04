@@ -6,7 +6,7 @@ I try to learn something everyday.
 
 Pronouns: He/Him
 
-Fun fact: I am Interested in Digital Art
+Fun fact: I like Digital Art
 <!--
 **Faiax/Faiax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
