@@ -2,8 +2,6 @@ Hi, I'm Faiaz.
 
 I like Video Games, Books & Tech.
 
-I try to learn something everyday.
-
 I’m currently learning C++
 
 Pronouns: He/Him
