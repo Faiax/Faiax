@@ -2,7 +2,7 @@ Hi, I'm Faiaz.
 
 I like Video Games, Books & Tech.
 
-I’m currently learning C++
+I’m currently Preparing for SSC-2022
 
 Pronouns: He/Him
 
