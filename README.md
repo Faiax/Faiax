@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faiaz</h1>
-<h3 align="center">I like Video Games, Books, Anime, Any kind of tech</h3>
+<h3 align="center">I like Video Games, Books, Anime, Any kind of tech, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiax&label=Profile%20views&color=0e75b6&style=flat" alt="faiax" /> </p>
 
