@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **faiazhm125@yahoo.com**
 
-- ⚡ Fun fact **I am the youngest NFT launcher from Bangladesh**
+- ⚡ Fun fact **I am the youngest(16) NFT launcher from Bangladesh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
